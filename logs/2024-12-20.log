@@ -1,0 +1,36 @@
+2024-12-20 19:42:55, GET, Alira, Failed to retrieved songs
+2024-12-20 19:42:59, GET, Alira, Failed to retrieve playlist
+2024-12-20 20:11:35, GET, Alira, Failed to retrieve playlist
+2024-12-20 20:11:37, GET, Alira, Failed to retrieved songs
+2024-12-20 20:11:43, GET, Alira, Failed to retrieve playlist
+2024-12-20 20:11:59, POST, Alira, Successfully created a playlist
+2024-12-20 20:12:03, GET, Alira, Successfully retrieved playlist
+2024-12-20 20:13:16, GET, Alira, Failed to retrieved songs
+2024-12-20 20:14:44, POST, Alira, Uploaded a file song
+2024-12-20 20:14:49, GET, Alira, Successfully retrieved songs
+2024-12-20 20:16:06, POST, Alira, Successfully added a song to playlist
+2024-12-20 20:16:13, POST, Alira, Failed to create a playlist
+2024-12-20 20:16:16, GET, Alira, Successfully retrieved playlist
+2024-12-20 20:27:55, GET, Alira, Successfully retrieved songs
+2024-12-20 20:28:07, GET, Alira, Successfully retrieved songs
+2024-12-20 20:28:12, GET, Alira, Successfully retrieved playlist
+2024-12-20 20:28:15, GET, Alira, Successfully retrieved songs
+2024-12-20 20:29:45, POST, Alira, Uploaded a file song
+2024-12-20 20:29:50, GET, Alira, Successfully retrieved songs
+2024-12-20 20:30:15, GET, Alira, Successfully retrieved playlist
+2024-12-20 20:31:30, POST, Alira, Failed to create a playlist
+2024-12-20 20:32:05, POST, Alira, Uploaded a file song
+2024-12-20 20:32:09, GET, Alira, Successfully retrieved songs
+2024-12-20 20:32:30, GET, Alira, Successfully retrieved playlist
+2024-12-20 20:33:01, POST, Alira, Successfully created a playlist
+2024-12-20 20:33:42, POST, Alira, Successfully added a song to playlist
+2024-12-20 20:33:49, GET, Alira, Successfully retrieved playlist
+2024-12-20 20:34:10, POST, Alira, Failed to create a playlist
+2024-12-20 20:34:18, POST, Alira, Successfully added a song to playlist
+2024-12-20 20:34:23, GET, Alira, Successfully retrieved playlist
+2024-12-20 20:35:10, GET, Alira, Successfully retrieved songs
+2024-12-20 20:35:13, GET, Alira, Successfully retrieved songs
+2024-12-20 20:35:18, GET, Alira, Successfully retrieved songs
+2024-12-20 20:35:22, GET, Alira, Successfully retrieved songs
+2024-12-20 20:36:56, PATCH, Alira, Successfully update song details
+2024-12-20 20:37:00, GET, Alira, Successfully retrieved songs
